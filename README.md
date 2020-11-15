@@ -64,5 +64,4 @@ We didn't used Trello or Kaban because we didn't have time.
 Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
 
 [Repository](https://github.com/Thomas-chenu/Casino_Roulette) 
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Slides](https://slides.com/thomaschenu/casinowheel)
